@@ -1,0 +1,9 @@
+The Fellowship of the Ring:
+- Frodo
+- Sam
+- Merry
+- Pippin
+- Aragorn
+- Legolas
+- Gimli
+- Boromir
